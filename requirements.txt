@@ -25,5 +25,17 @@ faiss-cpu
 pypdf2
 beautifulsoup4
 requests
-
-
+serpapi
+PyPDF2
+chromadb
+openai
+langchain
+python-multipart
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+email-validator   # optional if you validate emails
+apscheduler
+sqlalchemy
+websockets
