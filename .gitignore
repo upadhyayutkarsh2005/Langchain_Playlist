@@ -4,6 +4,8 @@ __pycache__/
 config /
 data /
 assistant/config/
+assistant/data/
 **/secret.json
+**/google_token.json
 *.json
 
